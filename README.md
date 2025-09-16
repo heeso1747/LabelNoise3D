@@ -1,17 +1,18 @@
 <table>
 <tr>
 <td>
-
+  
 # LabelNoise3D
 
 Analysis of the Impact of Label Noise for Pre-Training of 3D Object Detection Deep Learning Models
 
 </td>
 <td>
-<img src="https://github.com/user-attachments/assets/70678fb4-12ee-4759-8d85-f9319982e293" alt="SEP-C" width="200" />
+<img width="1024" height="1024" alt="LN3D" src="https://github.com/user-attachments/assets/dd905e9d-c1f3-4acb-ac1f-cc5585135729" />
 </td>
 </tr>
 </table>
+
 
 ## 📚 Background
 - **Challenge:** Training deep learning models for 3D object detection requires extensive annotated 3D data (e.g., bounding boxes), which is costly and slow to create manually.
