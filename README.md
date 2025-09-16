@@ -62,4 +62,7 @@ uv sync    # synchronize dependencies
 source .venv/bin/activate
 pip install uv
 uv sync
+
+# But for now, you can also install dependencies manually using pip
+pip install -r requirements.txt
 ```
