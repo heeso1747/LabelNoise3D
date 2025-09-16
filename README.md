@@ -8,7 +8,7 @@ Analysis of the Impact of Label Noise for Pre-Training of 3D Object Detection De
 
 </td>
 <td>
-<img width="1024" height="1024" alt="LN3D" src="https://github.com/user-attachments/assets/dd905e9d-c1f3-4acb-ac1f-cc5585135729" />
+<img width="200" alt="LN3D" src="https://github.com/user-attachments/assets/dd905e9d-c1f3-4acb-ac1f-cc5585135729" />
 </td>
 </tr>
 </table>
