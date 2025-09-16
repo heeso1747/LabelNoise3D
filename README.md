@@ -45,7 +45,7 @@ TBD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/
+git clone git@github.com:heeso1747/LabelNoise3D.git
 ``` 
 
 ### 2. Install `uv` for dependencies
